@@ -7,7 +7,7 @@
 Logging into the github account
 Repository creation
 Initiate repo settings by choosing a name, deciding if it's public or private
-Initialize the files- 
+Initialize the files
 Have default branch name
 choose the authentication method between HTTPS and SSH used for cloning
 
